@@ -1,6 +1,3 @@
-Got it! Here’s a GitHub description for a machine learning model that predicts stroke based on the features you've provided:
-
----
 
 # Stroke Prediction Machine Learning Model
 
@@ -57,9 +54,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 ---
-
-Feel free to adjust any details to better match the specifics of your project or add any additional sections that might be relevant!
-
 
 # AUTHORS 
 ```
